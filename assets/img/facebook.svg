@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60.786" height="60.786" viewBox="0 0 60.786 60.786">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.146" y1="0.146" x2="0.854" y2="0.854" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1677f1"/>
+      <stop offset="0.18" stop-color="#176ee9"/>
+      <stop offset="0.46" stop-color="#1d55d3"/>
+      <stop offset="0.82" stop-color="#252eb0"/>
+      <stop offset="1" stop-color="#2b189c"/>
+    </linearGradient>
+  </defs>
+  <g id="facebook" transform="translate(0.5 0.5)">
+    <ellipse id="Ellipse_33" data-name="Ellipse 33" cx="29.893" cy="29.893" rx="29.893" ry="29.893" transform="translate(0 0)" stroke="#afafaf" stroke-width="1" fill="url(#linear-gradient)"/>
+    <path id="Path_3544" data-name="Path 3544" d="M13.5,38.085V21.426h5.557l1.054-6.887H13.5V10.061c0-1.882.928-3.726,3.889-3.726H20.4V.464A36.872,36.872,0,0,0,15.066,0C9.622,0,6.059,3.3,6.059,9.27v5.256H0v6.887H6.059V38.072H13.51Z" transform="translate(19.695 10.838)" fill="#fff"/>
+  </g>
+</svg>

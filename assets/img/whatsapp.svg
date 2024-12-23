@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60.786" height="60.786" viewBox="0 0 60.786 60.786">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.146" y1="0.146" x2="0.854" y2="0.854" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00fb73"/>
+      <stop offset="1" stop-color="#00b25b"/>
+    </linearGradient>
+  </defs>
+  <g id="whatsapp" transform="translate(0.5 0.5)">
+    <ellipse id="Ellipse_29" data-name="Ellipse 29" cx="29.893" cy="29.893" rx="29.893" ry="29.893" transform="translate(0 0)" stroke="#afafaf" stroke-width="1" fill="url(#linear-gradient)"/>
+    <path id="Path_3540" data-name="Path 3540" d="M0,30.859,2.208,22.6a15.261,15.261,0,1,1,6.084,6.034L0,30.859ZM8.706,25.54l.527.314a12.4,12.4,0,1,0-4.24-4.2l.326.527-1.229,4.6L8.731,25.54Z" transform="translate(14.501 14.464)" fill="#fff"/>
+    <path id="Path_3541" data-name="Path 3541" d="M13.034,9.093A2.561,2.561,0,0,0,10.851,8.6c-.564.226-.928,1.116-1.292,1.568a.54.54,0,0,1-.7.151A9.86,9.86,0,0,1,3.927,6.1.607.607,0,0,1,4,5.267a3.256,3.256,0,0,0,.891-1.455,3.082,3.082,0,0,0-.4-1.719A4.136,4.136,0,0,0,3.224.174,1.737,1.737,0,0,0,1.33.45,3.857,3.857,0,0,0,0,3.5a3.581,3.581,0,0,0,.125.966A7.863,7.863,0,0,0,1.054,6.6,16.447,16.447,0,0,0,2.02,8.065a15.33,15.33,0,0,0,4.19,3.9,12.546,12.546,0,0,0,2.622,1.242,5.8,5.8,0,0,0,3.048.477,3.717,3.717,0,0,0,2.76-2.057,1.788,1.788,0,0,0,.125-1.054c-.163-.728-1.129-1.154-1.719-1.505Z" transform="translate(22.68 22.732)" fill="#fff" fill-rule="evenodd"/>
+  </g>
+</svg>

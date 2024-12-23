@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60.786" height="60.786" viewBox="0 0 60.786 60.786">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.146" y1="0.146" x2="0.854" y2="0.854" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#23004a"/>
+      <stop offset="0.96" stop-color="#010003"/>
+      <stop offset="1"/>
+    </linearGradient>
+  </defs>
+  <g id="X_twitter" data-name="X twitter" transform="translate(0.5 0.5)">
+    <ellipse id="Ellipse_35" data-name="Ellipse 35" cx="29.893" cy="29.893" rx="29.893" ry="29.893" transform="translate(0 0)" stroke="#afafaf" stroke-width="1" fill="url(#linear-gradient)"/>
+    <path id="Path_3545" data-name="Path 3545" d="M15.843,11.528,25.753,0H23.408L14.8,10.01,7.928,0H0L10.4,15.128,0,27.209H2.346L11.44,16.646,18.7,27.209h7.928L15.843,11.516h0ZM12.62,15.266l-1.054-1.505L3.186,1.769H6.8L13.56,11.44l1.054,1.505,8.794,12.582H19.795L12.62,15.266h0Z" transform="translate(16.584 16.257)" fill="#fff"/>
+  </g>
+</svg>
